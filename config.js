@@ -97,7 +97,7 @@ window.FUNNEL = {
 
   // Meta: el ID de tu pixel (conjunto de datos). Es público, no es un secreto.
   meta: {
-    pixel_id: ""
+    pixel_id: "1851914179792919"
   },
 
   // URL de la aplicación web de Google Apps Script (termina en /exec).
