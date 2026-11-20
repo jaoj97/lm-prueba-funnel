@@ -102,7 +102,7 @@ window.FUNNEL = {
 
   // URL de la aplicación web de Google Apps Script (termina en /exec).
   // Vacío = la página funciona, pero no guarda nada. Úsalo así solo para probar el diseño.
-  apps_script_url: "",
+  apps_script_url: "https://script.google.com/macros/s/AKfycbzHzacKNLKQpkhZpzFFvf34PXQ_YD45R_Vl7fKwevdNHSMJlbPDoM8ZqayAaxpuvf5Keg/exec",
 
   // WhatsApp donde la persona te escribe para pedir el contenido
   whatsapp: {
